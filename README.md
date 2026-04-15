@@ -1,6 +1,6 @@
 # 🐧 My Hyprland Configuration
 
-This repository contains my personal Hyprland configuration, optimized for a **Fedora 43** environment on an **ASUS ZenBook**. It is designed for a seamless transition from GNOME to a tiling window manager, focusing on productivity and high-performance visuals.
+This repository contains my personal Hyprland configuration, optimized for a **Fedora 43** environment on an **ASUS ZenBook**. It is designed for a seamless transition from GNOME to a tiling window manager, focusing on productivity and high-performance visuals. In addition it also contains Waybar and Fuzzel settings.
 
 ## 🛠️ System Components
 - **OS:** Fedora 43
